@@ -7,6 +7,10 @@ module.exports = {
       padding: "20px",
     },
     extend: {
+      fontFamily: {
+        Rubik: ["Rubik"],
+        Arvo: ["Arvo", "serif"],
+      },
       colors: {
         primary: "#7D5A50",
         secondary: "#798777",
